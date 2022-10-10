@@ -5,7 +5,7 @@
  * @description Free emojis without nitro!
  * @source https://github.com/F1xGOD/FEDPlugin
  * @website https://www.fixworldstudio.com
- * @updateUrl https://raw.githubusercontent.com/F1xGOD/FEDPlugin/main/FEDPlugin.js
+ * @updateUrl https://raw.githubusercontent.com/F1xGOD/FEDPlugin/main/FEDPlugin.plugin.js
  * @patreon https://www.patreon.com/F1xGOD
  */
 
