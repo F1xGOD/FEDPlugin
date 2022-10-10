@@ -1,10 +1,12 @@
 /**
- * @name FreeEmojis
- * @version 1.7
- * @description Link emojis if you don't have nitro! Type them out or use the emoji picker!
- * @author An0
- * @source https://github.com/An00nymushun/DiscordFreeEmojis
- * @updateUrl https://raw.githubusercontent.com/An00nymushun/DiscordFreeEmojis/main/DiscordFreeEmojis.plugin.js
+ * @name DFEP
+ * @author F1xGOD
+ * @version 1.0
+ * @description Free emojis without nitro!
+ * @source https://github.com/F1xGOD/FEDPlugin
+ * @website https://www.fixworldstudio.com
+ * @updateUrl https://raw.githubusercontent.com/F1xGOD/FEDPlugin/main/FEDPlugin.js
+ * @patreon https://www.patreon.com/F1xGOD
  */
 
 /*@cc_on
@@ -182,9 +184,9 @@ var FreeEmojis = (() => {
     }
     
     return function() { return {
-        getName: () => "FreeEmojis",
-        getShortName: () => "DFE",
-        getDescription: () => "You get free emojis without nitro!",
+        getName: () => "DFEP",
+        getShortName: () => "FE",
+        getDescription: () => "Free emojis without nitro!",
         getVersion: () => "1.0",
         getAuthor: () => "F1xGOD",
     
